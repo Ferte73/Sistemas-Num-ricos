@@ -1,0 +1,2 @@
+O objetivo desse repositório é criar uma biblioteca que possa facilitar a conversão de sistemas numéricos!
+As instruções para o uso de cada Classe de função será feito quando o projeto em si estiver terminado !!
